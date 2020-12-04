@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-
+Simple two-number addition system
 </h2>
 
 <h3 align="center"> created with Python </h3>
