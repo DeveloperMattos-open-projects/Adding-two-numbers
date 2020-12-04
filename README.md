@@ -1,5 +1,5 @@
 <h1 align="center">
-    Responding to User
+    Adding two numbers
 </h1>
 
 <h2 align="center">
